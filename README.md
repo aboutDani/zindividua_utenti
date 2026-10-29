@@ -1,5 +1,5 @@
 
-Report Estrazione Anagrafica Tecnici SAP
+Report Estrazione Anagrafica Tecnici SAP [creato in autonomia con linguaggio ABAP]
 
 Questo report ABAP estrae l'elenco degli utenti SAP attivi associati a uno specifico ruolo tecnico, recuperando le relative informazioni anagrafiche (CID, Nome, Cognome ed E-mail) da HR, ed esporta i dati in un file locale in formato .csv.
 
